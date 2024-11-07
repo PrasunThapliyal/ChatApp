@@ -81,7 +81,10 @@ Terminal
 	export NODE_TLS_REJECT_UNAUTHORIZED=0
 	npx shadcn@latest init
 -------------------------------------------------------------
+From the Shadcn webside, copy the command to install Button
 
+Terminal
+	npx shadcn@latest add button
 -------------------------------------------------------------
 -------------------------------------------------------------
 -------------------------------------------------------------
